@@ -1,10 +1,11 @@
 #EXTM3U
 
 # === CANALES EN VIVO ===
-#EXTINF:-1 type="stream" channelId="1" group="kick" logo="https://files.kick.com/images/user/32445228/profile_image/conversion/47c317eb-0fda-4a81-b3b2-93d15476951e-fullsize.webp",Elzeeim
+#EXTINF:-1 tvg-id="live1" tvg-name="Elzeeim" tvg-logo="https://files.kick.com/images/user/32445228/profile_image/conversion/47c317eb-0fda-4a81-b3b2-93d15476951e-fullsize.webp" group-title="kick",Elzeeim
 https://sae12.playlist.live-video.net/v1/playlist/Ct4FDQGLq6hP8n-QqexUDP7i40sDZeJ89hDNMmfoJ1cEuSFiWOL0mzWclhRo_glIFGxwalWUlK4V3lEVx5cNhJfrkevCNqKrk7rZTxMkWHVWO5coMWtY9sZsuMbX2D2UW_zc_Lw3UtS35T57aplXJuoPlSPIhQ09WQu-rDoLSdAK68d263fKdlQSIA4wnqlC4gw7jyAy8zUlzoZsoL3BVsJeJDN7DH6H-2ZILAa9Nd_mQdW378SxYytGL16p3FKdqRioceLryf3dk9phRCnAxG5aee7l2oXeKPEf8yOBPV4gxXuggCvuSNTmuxLO-J5Fb0_UTrhvQ-2xJl7nukG8IhLv4HNJ4RvZJanx1Fi-qMH4D2n2FHnAOeFcrnB7vWDReRDXVA3eBpv2rxCTJGMhoZ22n4DDKhDZ6tZBaU0L9cspWoGNLY8c3takr0RtvXW0bhgybla6CWwzbnAPOskZtBa01j39FFVrObE7EpLJBWSB9hkbX7tcR6b8Os2TMqX_KV3zKEYCUky1LEF6Wbv5cmryHQXadIuqxipZ8H2V1nlSTNgQjDaw4eDBj3xiO32VsPp_RAqVaHKNERyRiQOwKcPxuMs4dz0JrUGCkNAof23fuJBoYndHhM_qjo25rTyLXwaq6-kTQ-g_q2lyjyqFEOVgJyyv0-DrPQgOsd6YjU72E5AG2sBjVovEKVSRVREZ_Jv5ewvbOu8lXlvl_rPYZO2Xtz80IuAWC7yEBcbviU8YRUYQhNtSe5rsgAD1OfjGMCN4czbomh9Vavu5rffhYKLoitA9Frjo858jZymcfNbQbybncB0X7sT1zDk7COfWsvGg8hrCP2WDKjljRFQm9QbB1qv_8IQVUSR0-agu90RCh4eiXiZfmt2ftT8hEV8T5XImd5YZkCcoygTwbV-Zfy7-S4DQD2F2gW-kEnO_zArk7pIXvPm_it9cypuqVgj7NNVNjlT3prRkE64-DZHLpqsaDFZDMzB4HLDFMsydoyABKgl1cy1lYXN0LTIw4A0.m3u8
 
-# === CONTENIDO VOD (Con subtítulos compatibles SSIPTV) ===
-#EXTINF:0 type="stream" channelId="-1" group="peliculas" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19maMFTfc5Cx8-qq9acwrjcMFkC6cNhk89Bwes9bp8g&s=10" subtitles="http://fmvokdm.0bs094t26.com/public/subs/c30f41c9-810d-4301-90a3-7cb5ec9994d2.srt" audio-track="original" aspect-ratio="1.85:1",justiciero
+# === CONTENIDO VOD (Con subtítulos + Seek habilitado) ===
+#EXTVLCOPT:sub-file=http://fmvokdm.0bs094t26.com/public/subs/c30f41c9-810d-4301-90a3-7cb5ec9994d2.srt
+#EXTINF:0 tvg-id="vod1" tvg-name="El justiciero" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTWJQDOB7TyQfKYtW9KBfnxi-kuUVl_6hpvCg6ST3CsEw-2lYWZwZ3AAVhvPCS0lbMQ1iopCHy0Uvg8RiG6J9XAGF0aR37gEOpguygQQ&s=10" group-title="peliculas" tvg-rec="0" subtitles="http://fmvokdm.0bs094t26.com/public/subs/c30f41c9-810d-4301-90a3-7cb5ec9994d2.srt" audio-track="original",El justiciero
 http://zmedghe.rqsglwdvh.com/vod/839EB54632F64569A7C9E749478DB83B_media.mp4?dev_id=f52157f745278412edf03ea2e51a79fd&user_id=232671742&trans_id=4aiHBMar55XE_KeaHvdCG84mq&expired=1778580790&app_id=magmob&app_ver=60202&host=zmedghe.rqsglwdvh.com&media_code=839EB54632F64569A7C9E749478DB83B&auth_id=232671742_magmob__0&client_ip=38.25.4.42&token=fe2d45a7&sign2_method=sign_o3&instance=0&start_moment=1778571693001&sign2=406ef94afe153de9e7d818ed74efcc65
 

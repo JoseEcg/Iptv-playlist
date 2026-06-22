@@ -1,8 +1,8 @@
 #EXTM3U
 
 # === CANALES EN VIVO ===
-#EXTINF:-1 tvg-id="live1" tvg-name="RC" tvg-logo="" group-title="Deportes",RC
-http://localhost:5000/proxy/xttscpd.4tiwsma79.com/raus1cjm/bwckvwxdmtd.m3u8
+#EXTINF:-1 tvg-id="live1" tvg-name="Fox sport" tvg-logo="" group-title="Deportes",Fox sport
+http://192.168.3.167:5000/proxy/23.237.228.60:12387/tbuj/xwiecfmncm.m3u8
 
 # === CONTENIDO VOD ===
 #EXTVLCOPT:sub-file=http://fmvokdm.0bs094t26.com/public/subs/01094ffd-d685-42e9-a645-f9979fded6db.srt

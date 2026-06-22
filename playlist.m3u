@@ -1,10 +1,10 @@
 #EXTM3U
 
 # === CANALES EN VIVO ===
-#EXTINF:-1 tvg-id="live1" tvg-name="RC" tvg-logo="" group-title="Deportes",RC
+#EXTINF:-1 tvg-id="live1" tvg-name="RC1" tvg-logo="" group-title="Deportes",RC1
 http://localhost:5000/proxy/xttscpd.4tiwsma79.com/raus1cjm/bwckvwxdmtd
 
-# === CONTENIDO VOD (Con subtítulos + Seek habilitado) ===
+# === CONTENIDO VOD ===
 #EXTVLCOPT:sub-file=http://fmvokdm.0bs094t26.com/public/subs/01094ffd-d685-42e9-a645-f9979fded6db.srt
 #EXTINF:0 tvg-id="vod1" tvg-name="proyecto Fin del mundo" tvg-logo="https://pics.filmaffinity.com/project_hail_mary-366657509-large.jpg" group-title="peliculas" tvg-rec="0" subtitles="http://fmvokdm.0bs094t26.com/public/subs/01094ffd-d685-42e9-a645-f9979fded6db.srt" audio-track="español",proyecto Fin del mundo
 http://zmedghe.rqsglwdvh.com/vod/11E560B7791945FF9CA73AF3EE88131A_media.mp4?dev_id=f52157f745278412edf03ea2e51a79fd&user_id=232671742&trans_id=LpusbDhGlwVT_W6qcXjfM28jk&expired=1778622571&app_id=magmob&app_ver=60202&host=zmedghe.rqsglwdvh.com&media_code=11E560B7791945FF9CA73AF3EE88131A&auth_id=232671742_magmob__0&client_ip=38.25.4.42&token=dc4e5bd9&sign2_method=sign_o3&instance=0&start_moment=1778608362897&sign2=fabc480d6c88f5d2f02a2072f7f53686

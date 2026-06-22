@@ -2,7 +2,7 @@
 
 # === CANALES EN VIVO ===
 #EXTINF:-1 tvg-id="live1" tvg-name="RC1" tvg-logo="" group-title="Deportes",RC1
-http://localhost:5000/proxy/xttscpd.4tiwsma79.com/raus1cjm/bwckvwxdmtd.m3u8
+http://localhost:5000/proxy/xttscpd.4tiwsma79.com/raus1cjm/bwckvwxdmtd
 
 # === CONTENIDO VOD ===
 #EXTVLCOPT:sub-file=http://fmvokdm.0bs094t26.com/public/subs/01094ffd-d685-42e9-a645-f9979fded6db.srt

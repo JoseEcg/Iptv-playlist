@@ -1,7 +1,7 @@
 #EXTM3U
 
 # === CANALES EN VIVO ===
-#EXTINF:-1 tvg-id="live1" tvg-name="RC1" tvg-logo="" group-title="Deportes",RC1
+#EXTINF:-1 tvg-id="live1" tvg-name="RC" tvg-logo="" group-title="Deportes",RC
 http://localhost:5000/proxy/xttscpd.4tiwsma79.com/raus1cjm/bwckvwxdmtd.m3u8
 
 # === CONTENIDO VOD ===
